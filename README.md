@@ -4,6 +4,8 @@ I'm a full-stack web developer specialized in the MERN stack.<br> I enjoy buildi
 
 Contact: nishantjain1002@gmail.com | LinkedIn: www.linkedin.com/in/inishantjain
 
+My Portfolio: https://inishantjain.github.io/portfolio-nishant2/
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inishantjain)
