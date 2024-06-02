@@ -9,7 +9,7 @@ My Portfolio: https://inishantjain.github.io/portfolio-nishant2/
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inishantjain)
-[][Coding Profile](https://www.geeksforgeeks.org/user/niteshjain12902)
+[![Coding Profile](https://img.shields.io/badge/Coding%20Profile-8A2BE2)](https://www.geeksforgeeks.org/user/niteshjain12902)
 
 # 💻 Tech Stack:
 
